@@ -3,7 +3,7 @@
 
 I'm not a developer by trade—I'm a business economist who enjoys exploring the world of tech and computer science. From management and analytics to hands-on coding experiments, I love diving into new concepts and bridging the gap between business and tech.
 
-Currently pursuing my Bachelor's in Economics with a focus on Management & Computer Science, I enjoy working on projects that help me develop a deeper technical understanding without losing sight of the bigger picture.
+I graduated with a Bachelor’s degree in Economics, specializing in Management and Computer Science. I find fulfillment in working on projects that not only enhance my technical skills but also provide a broader perspective on the subject matter.
 
 Cheers!
 
