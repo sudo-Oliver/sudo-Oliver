@@ -14,9 +14,11 @@ Cheers!
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" />
 <img align="left" alt="Stata" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/stata/stata-original-wordmark.svg" />
-<br />
+
+<br clear="left"/>
 
 ![Top Languages](https://ghstats.dev/api/langs?username=sudo-Oliver&theme=dracula&hide_border=true)
+
 
 
 
