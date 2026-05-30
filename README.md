@@ -21,7 +21,7 @@ Cheers!
 
 ### 📊 Stats
 
-![Olli's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-Oliver&show_icons=true&theme=dracula)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=sudo-Oliver&show_ring=false&hide_border=true)
 
 
 #
