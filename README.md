@@ -21,7 +21,7 @@ Cheers!
 
 ### 📊 Stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=sudo-Oliver&show_ring=false&hide_border=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=sudo-Oliver&theme=dracula&show_ring=false&hide_border=true)
 
 
 #
