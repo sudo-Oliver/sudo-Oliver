@@ -16,6 +16,7 @@ Cheers!
 <img align="left" alt="Stata" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/stata/stata-original-wordmark.svg" />
 <br />
 
+![Top Languages](https://ghstats.dev/api/langs?username=sudo-Oliver&theme=dracula&hide_border=true)
 
 
 
