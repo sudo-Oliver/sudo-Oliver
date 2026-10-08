@@ -1,4 +1,4 @@
-# Oliver Quick
+# Oliver
 **`Business Enthusiast with a Passion for Computer Science`**
 
 I'm not a developer by trade—I'm a business economist who enjoys exploring the world of tech and computer science. From management and analytics to hands-on coding experiments, I love diving into new concepts and bridging the gap between business and tech.
